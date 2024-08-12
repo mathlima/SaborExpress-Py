@@ -24,8 +24,7 @@ Este aplicativo é ideal para quem deseja ter controle e organização sobre uma
 
 <h3 align="center"> 
 
-https://github.com/user-attachments/assets/8608c932-446c-4553-abee-7a27df184ae5
-
+https://github.com/user-attachments/assets/f7e7757c-abbf-4a90-ae64-7c114a6d1817
 
 <h1 align="center"> 📁 Acesso ao projeto </h1>
 
