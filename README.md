@@ -4,11 +4,11 @@
 
 Este aplicativo foi desenvolvido em Python para gerenciar restaurantes de forma prática e eficiente. Com ele, você pode:
 
-    Cadastrar Restaurantes: Adicione novos restaurantes ao sistema, incluindo detalhes importantes como nome e categoria.
+Cadastrar Restaurantes: Adicione novos restaurantes ao sistema, incluindo detalhes importantes como nome e categoria.
 
-    Listar Restaurantes: Visualize uma lista completa de todos os restaurantes cadastrados, permitindo uma visão geral organizada e acessível.
+Listar Restaurantes: Visualize uma lista completa de todos os restaurantes cadastrados, permitindo uma visão geral organizada e acessível.
 
-    Alternar Estado do Restaurante: Modifique o estado de operação dos restaurantes (ativo ou desativado) de maneira rápida, garantindo que as informações estejam sempre atualizadas.
+Alternar Estado do Restaurante: Modifique o estado de operação dos restaurantes (ativo ou desativado) de maneira rápida, garantindo que as informações estejam sempre atualizadas.
 
 Este aplicativo é ideal para quem deseja ter controle e organização sobre uma rede de restaurantes, oferecendo funcionalidades essenciais em uma interface simples e intuitiva.
 
